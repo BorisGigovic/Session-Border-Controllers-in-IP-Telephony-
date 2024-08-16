@@ -83,7 +83,7 @@ Consider a multinational corporation implementing IP telephony across its global
 
 **3. QoS:** Voice traffic is prioritized, ensuring high call quality even during peak data usage times. 
 
-**4. Compliance:**The corporation complies with local regulations by leveraging the SBCs' lawful interception and emergency call handling features. 
+**4. Compliance:** The corporation complies with local regulations by leveraging the SBCs' lawful interception and emergency call handling features. 
 
 ## Conclusion 
 
