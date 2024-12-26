@@ -1,4 +1,4 @@
-# Session-Border-Controllers-in-IP-Telephony-
+# Session Border Controllers in IP Telephony
 ## Introduction 
 
 One critical technology that facilitates secure, reliable, and high-quality communication is the Session Border Controller (SBC). This article delves into what a Session Border Controller is, its importance in IP telephony, and how it can be implemented in an organization. Whether you're a network engineer or an IT manager, understanding SBCs is essential for optimizing your IP telephony infrastructure. 
